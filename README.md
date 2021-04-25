@@ -26,6 +26,5 @@ Hellooo! 👋 Welcome to my profile
 
 My name is Marcello and ...:
 
-😄 I really like to learn
-📚 Currently studying Back-End 
-🌍 And I also like to travel
+- [Courses](https://cursos.alura.com.br/user/marcelloeduardo222) 👨🏼‍🏫 I am a programming student of Java, Spring Framework, SQL Server with Oracle, Microsoft 2017 and PostgreeSql, DevOps, Apache Kafka Front End, Back end and AWS.
+
