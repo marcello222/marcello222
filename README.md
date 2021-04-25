@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 
-Hellooo! 👋 Welcome to my profile
+Hellooo! 👋 Welcome to my profile.
 
-My name is Marcello and ...:
+About me
 
 - [Courses](https://cursos.alura.com.br/user/marcelloeduardo222) 👨🏼‍🏫 I am a programming student of Java, Spring Framework, SQL Server with Oracle, Microsoft 2017 and PostgreeSql, DevOps, Apache Kafka Front End, Back end and AWS.
 
