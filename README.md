@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Marcello Eduardo 👨‍💻:
+# Hi, I´m Marcello Eduardo!: 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-eduardo-58ba40208//)](https://www.linkedin.com/in/marcello-eduardo-58ba40208//) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/marcello222)](https://https://github.com/marcello222)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-eduardo-58ba40208//)](https://www.linkedin.com/in/marcello-eduardo-58ba40208//)
 
 
 
