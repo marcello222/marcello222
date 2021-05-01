@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I´m Marcello Eduardo!: 👨‍💻
+# Olá, me chamo Marcello Eduardo!: 👨‍💻
 
 About me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-eduardo-58ba40208//)](https://www.linkedin.com/in/marcello-eduardo-58ba40208//)
 
 
-Me chamo Marcello Eduardo e é muito bom ter você por aqui, espero que goste dos projetos que irá encontrar em meu Github! 🙌🏼 Sou estudante 🤓 de Técnologia da informação, meu foco de trabalho e estudos são em Java, Spring e JavaScript, focando no full-stack.
+Seja muito bem-vindo, é muito bom ter você por aqui, espero que goste dos projetos que irá encontrar em meu Github! 🙌🏼 Sou estudante 🤓 de Técnologia da informação, meu foco de trabalho e estudos são em Java, Spring, MySql, JavaScript e DevOps focando no full-stack.
 
 No momento estou estudando programação na Alura- [Courses](https://cursos.alura.com.br/user/marcelloeduardo222) nesse link terá acesso aos meus diplomas. 😎 Sempre fui apaixonado por Tecnologia, em nome de um objetivo maior, o da realização profissional.
 
