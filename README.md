@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-eduardo-58ba40208//)](https://www.linkedin.com/in/marcello-eduardo-58ba40208//)
 
 ## My Skills
-
 <div style="display: inline_block"><br>
  <img align="center" alt="Marcello-MySql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Marcello-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -29,8 +28,7 @@ Here are some ideas to get you started:
  <img align="center" alt="Marcello-CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">                      <img align="center" alt="Marcello-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">            <img align="center" alt="Marcello-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">        <img align="center" alt="Marcello-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">                   </div>                             
                                                 
                                                         
-
-
+##
 
 
 Hellooo! 👋 Welcome to my profile.
