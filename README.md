@@ -38,6 +38,7 @@ Here are some ideas to get you started:
  ##       
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcello222&layout=compact)](https://github.com/marcello222/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcello222&theme=dark&show_icons=true)
 
 ##
 Hellooo! 👋 Welcome to my profile.
