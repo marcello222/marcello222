@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-eduardo-58ba40208//)](https://www.linkedin.com/in/marcello-eduardo-58ba40208//)
 
 ## My Skills
-<img src=(https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg") alt="mysql" width"40" height="40" ></img>
-
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
 
 Hellooo! 👋 Welcome to my profile.
