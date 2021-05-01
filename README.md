@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 # Hi, I´m Marcello Eduardo!: 👨‍💻
 
+About me
+
+- [Courses](https://cursos.alura.com.br/user/marcelloeduardo222) 👨🏼‍🏫 I am a programming student of Java, Spring Framework, SQL Server with Oracle, Microsoft 2017 and PostgreeSql, DevOps, Apache Kafka Front End, Back end and AWS.
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-eduardo-58ba40208//)](https://www.linkedin.com/in/marcello-eduardo-58ba40208//)
 
 ## My Skills
@@ -41,9 +46,4 @@ Here are some ideas to get you started:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcello222&theme=dark&show_icons=true)
 
 ##
-Hellooo! 👋 Welcome to my profile.
-
-About me
-
-- [Courses](https://cursos.alura.com.br/user/marcelloeduardo222) 👨🏼‍🏫 I am a programming student of Java, Spring Framework, SQL Server with Oracle, Microsoft 2017 and PostgreeSql, DevOps, Apache Kafka Front End, Back end and AWS.
 
