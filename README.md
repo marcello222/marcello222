@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## My Skills
  <img align="center" alt="Marcello-MySql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
- <img align="center" alt="Marcello-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg>
+ <img align="center" alt="Marcello-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 
 Hellooo! 👋 Welcome to my profile.
